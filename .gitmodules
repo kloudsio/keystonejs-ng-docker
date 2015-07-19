@@ -1,0 +1,3 @@
+[submodule "keystonejs-ng-skeleton"]
+	path = keystonejs-ng-skeleton
+	url = https://github.com/dvdcastro/keystonejs-ng-skeleton
